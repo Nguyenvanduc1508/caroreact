@@ -7,7 +7,7 @@ function App() {
   function start() {
     alert('Bắt đầu trò chơi!')
   }
-  // start();
+  start();
   return (
     <div className="App">
         <Game />
